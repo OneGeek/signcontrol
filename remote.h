@@ -1,0 +1,30 @@
+#define KEY_DELAY_MS 10
+
+const int IR_ESC = 0x1B;
+const int IR_POWER = 0x1C;
+const int IR_SYMBOL = 0x1;
+const int IR_ANIMATION = 0x11;
+const int IR_IMAGE = 0x14;
+const int IR_ICON = 0x12;
+const int IR_NEON = 0x15;
+const int IR_STRETCH = 0x16;
+const int IR_FONT_SIZE = 0x19;
+const int IR_F1 = 0x17;
+const int IR_F2 = 0x1A;
+const int IR_WIDTH = 0x4;
+const int IR_MENU = 0x6;
+const int IR_DELETE = 0x8;
+const int IR_ENTER = 0xD;
+const int IR_CAPS = 0x7;
+const int IR_FONTS = 0x5;
+const int IR_COLOR = 0x2;
+const int IR_FN = 0x9;
+const int IR_COPY = 0x1E;
+const int IR_PASTE = 0x1D;
+const int IR_ATTRIBUTE = 0x18;
+const int IR_OUTLINE = 0x3;
+const int IR_LEFT_OR_SPEED_DOWN = 0x24;
+const int IR_RIGHT_OR_SPEED_UP = 0x25;
+const int IR_UP_OR_EFFECT_UP = 0x22;
+const int IR_DOWN_OR_EFFECT_DOWN = 0x23;
+const int IR_COMMA = 0x21;
